@@ -1,0 +1,53 @@
+.musica-body{
+	background: #e0f7fa;
+}
+
+
+.contenedor{
+	background: 
+	#80deea;
+}
+
+.nvb{
+	background: #009688;
+	height: 120%;
+	text-align: center;
+}
+
+.logo-img{
+
+	width: 40%;
+	height: 100px;
+
+}
+
+.img-articles{
+
+	width: 90%;
+	height: 50%;
+	
+}
+
+a {
+  color: aliceblue;
+}
+
+
+#Navegacion {
+
+margin-bottom: 60px;
+background: red;
+font-size: 16px;
+
+}
+
+
+.img-social {
+	align-content: right;
+	width: 48px;
+}
+
+.article{
+
+	margin-top: 2%;
+}

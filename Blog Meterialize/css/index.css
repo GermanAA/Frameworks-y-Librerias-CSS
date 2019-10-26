@@ -1,0 +1,51 @@
+.viaje-body {
+  background: url(../img/fondo.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  color: white;
+}
+
+
+.barra-superior{
+  min-height: 4rem;
+}
+
+
+.barra-nav{
+
+  background:  #3f51b5;
+  
+}
+.logo{
+  width: 100px;
+ 
+}
+
+.redes{
+  height: 200%;
+}
+
+.i-social{
+  width: 48px;
+}
+
+.columna-3{
+  width: 100%;
+
+}
+
+.bacalar, .paris{
+  width: 100%;
+  
+}
+.imagen-perfil{
+  width:100%;
+  margin-top: 0.5rem;
+ 
+
+}
+
